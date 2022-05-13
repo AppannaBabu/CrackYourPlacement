@@ -1,4 +1,4 @@
-# LeetCode problem link: https://leetcode.com/problems/find-the-duplicate-number/
+# LeetCode problem link: https://leetcode.com/problems/find-the-duplicate-number/ 
 class Solution(object):
     def findDuplicate(self, nums):
         l=len(nums)
